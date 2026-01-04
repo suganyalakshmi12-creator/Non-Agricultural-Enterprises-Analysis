@@ -15,7 +15,7 @@
    Micro MSME (504 M) count is greater than small MSME (3 M), Medium MSME (42 k) and non MSME (25k).
 
 **Business Value**
-    This dashboard helps organizations: • Optimize workforce planning • Monitor employee well-being • Align compensation with role and qualification • Improve hiring and retention strategies
+    This dashboard helps organizations: working hours of the employess in the Enterprises,Communiuty wise Enterprises,Act used by Enterpises,state and gender wise properitary.
 
 **Conclusion**
    This analysis demonstrates the Urban vs Rural based enterprises other than agriculture on a state and sector basis. The Power BI dashboard shows the sum of MSME (micro, small, minimum enterprises) and non MSME,    sum of community wise enterprises, gva, propriety and government act on state wise, employee working hours in the enterprises to improve the Rural based enterprises and to improve the women propriety (ownership   of the enterprises) in India.
